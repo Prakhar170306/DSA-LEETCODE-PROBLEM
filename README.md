@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0053-maximum-subarray) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0053-maximum-subarray) |
+## String
+|  |
+| ------- |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 <!---LeetCode Topics End-->
