@@ -1,21 +1,22 @@
 class Solution {
 public:
-    vector<vector<int >> construct2DArray(
+    vector<vector<int>> construct2DArray(
         vector<int>& original,
-        int limit,
-        int quantity
+        int m,
+        int n
     ) {
-        if (original.size() != limit * quantity) {
+        // Required number of elements available nahi hain
+        if (original.size() != m * n) {
             return {};
         }
 
-        vector<vector<int >> answer(limit, vector<int>(quantity));
+        vector<vector<int>> answer(m, vector<int>(n));
 
         int index = 0;
 
-        for (int idx = 0; idx < limit; idx++) {
-            for (int inner = 0; inner < quantity; inner++) {
-                answer[idx][inner] = original[index];
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                answer[i][j] = original[index];
                 index++;
             }
         }
