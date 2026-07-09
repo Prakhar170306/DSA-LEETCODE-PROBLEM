@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0242-valid-anagram) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 ## Divide and Conquer
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0344-reverse-string) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 ## Two Pointers
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0054-spiral-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/2022-convert-1d-array-into-2d-array) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
