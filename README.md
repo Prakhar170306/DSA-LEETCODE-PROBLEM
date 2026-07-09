@@ -33,12 +33,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0344-reverse-string) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0344-reverse-string) |
 ## Stack
 |  |
