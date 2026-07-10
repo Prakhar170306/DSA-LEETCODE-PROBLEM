@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0054-spiral-matrix) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0344-reverse-string) |
@@ -66,5 +68,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
