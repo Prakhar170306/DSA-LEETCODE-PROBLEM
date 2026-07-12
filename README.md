@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0242-valid-anagram) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 ## Divide and Conquer
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0344-reverse-string) |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0242-valid-anagram) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
