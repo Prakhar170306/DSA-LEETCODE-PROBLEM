@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0344-reverse-string) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0067-add-binary) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Sorting
 |  |
@@ -79,4 +81,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
