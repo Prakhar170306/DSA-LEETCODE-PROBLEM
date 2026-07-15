@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0059-spiral-matrix-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0136-single-number) |
 | [1572-matrix-diagonal-sum](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/1572-matrix-diagonal-sum) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/2496-maximum-value-of-a-string-in-an-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0136-single-number) |
 ## Linked List
 |  |
 | ------- |
