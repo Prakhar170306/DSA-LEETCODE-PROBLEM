@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0059-spiral-matrix-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0136-single-number) |
+| [0347-top-k-frequent-elements](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0347-top-k-frequent-elements) |
 | [1572-matrix-diagonal-sum](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/1572-matrix-diagonal-sum) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/2496-maximum-value-of-a-string-in-an-array) |
@@ -24,11 +25,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0347-top-k-frequent-elements) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0347-top-k-frequent-elements) |
 ## Math
 |  |
 | ------- |
@@ -97,4 +101,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0002-add-two-numbers) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
