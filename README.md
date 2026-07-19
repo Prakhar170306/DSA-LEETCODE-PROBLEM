@@ -127,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0011-container-with-most-water) |
+## Concurrency
+|  |
+| ------- |
+| [1226-the-dining-philosophers](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/1226-the-dining-philosophers) |
 <!---LeetCode Topics End-->
