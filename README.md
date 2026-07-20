@@ -131,4 +131,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1226-the-dining-philosophers](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/1226-the-dining-philosophers) |
+## Depth-First Search
+|  |
+| ------- |
+| [0841-keys-and-rooms](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0841-keys-and-rooms) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0841-keys-and-rooms](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0841-keys-and-rooms) |
+## Graph Theory
+|  |
+| ------- |
+| [0841-keys-and-rooms](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0841-keys-and-rooms) |
 <!---LeetCode Topics End-->
