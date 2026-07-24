@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0645-set-mismatch) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 ## Divide and Conquer
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0389-find-the-difference) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 ## Two Pointers
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0645-set-mismatch) |
 ## Math
 |  |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0645-set-mismatch) |
 ## Linked List
 |  |
