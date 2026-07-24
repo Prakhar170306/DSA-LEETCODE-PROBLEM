@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0645-set-mismatch) |
 ## Linked List
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0002-add-two-numbers) |
+| [0342-power-of-four](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0342-power-of-four) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
