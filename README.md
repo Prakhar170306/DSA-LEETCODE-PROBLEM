@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0645-set-mismatch) |
 | [1572-matrix-diagonal-sum](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/1572-matrix-diagonal-sum) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0344-reverse-string) |
 ## Stack
 |  |
