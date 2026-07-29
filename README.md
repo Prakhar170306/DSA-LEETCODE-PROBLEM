@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0347-top-k-frequent-elements) |
+| [0485-max-consecutive-ones](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/0645-set-mismatch) |
 | [1572-matrix-diagonal-sum](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/1572-matrix-diagonal-sum) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Prakhar170306/DSA-LEETCODE-PROBLEM/tree/master/2022-convert-1d-array-into-2d-array) |
